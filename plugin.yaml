@@ -1,0 +1,10 @@
+name: d2_audio
+title: D2 Audio Compression & Voice Authentication
+description: >-
+  Compress audio files using the D2 format (peak extraction + Cubic Bézier reconstruction)
+  and authenticate speakers via D2 voice fingerprinting.
+  Original research by Adrian Mallett (2021).
+version: 1.0.0
+settings_sections: []
+per_project_config: false
+per_agent_config: false
